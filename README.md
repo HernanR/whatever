@@ -4,6 +4,7 @@ TODO
 ----
 * Rewrite linux kernal in go
 * Rewrite linux kernal in node.js
+* Rewrite linux kernal in PHP
 ```
 _________Justin•♥____________Justin•♥•Bi
 ______Justin•♥•Biebe_______Justin•♥•BieberJust
